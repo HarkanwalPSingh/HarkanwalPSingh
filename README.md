@@ -1,7 +1,7 @@
 Hi 👋,
 My name is Kanwal
 
-🌱 Welcome to my code space - [Portfolio](https://harkanwalpsingh.github.io/portfolio-website/)
+🌱 Welcome to my code space - [Portfolio](https://harkanwalpsingh.github.io/portfolio-website/) [WIP]
 
 🤔 I work on all sorts of things that peeks my interest
 
